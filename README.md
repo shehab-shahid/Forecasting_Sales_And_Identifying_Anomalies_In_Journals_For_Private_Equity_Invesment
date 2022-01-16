@@ -1,4 +1,4 @@
-# Forecasting_Sales_And_Identifying_Anomalies_In_Journals_For_Private_Equity_Invesment
+# Forecasting Sales And Identifying Anomalies In Journals For Private Equity Invesment
 
 * This project was part of the Institute of Chartered Accountants in England and Wales (ICAEW) Private Equity (Data Analyst) course.
 * A Private Equity firm is looking to invest in SuperStore, an international retailer that offers office supplies, furniture and technology. The firm wants to use Data Science to assess SuperStore's financial performance and management controls.
