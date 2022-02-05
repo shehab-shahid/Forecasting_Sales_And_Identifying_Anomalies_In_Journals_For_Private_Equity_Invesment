@@ -8,4 +8,4 @@
 * From a financial control perspective, numerous flaws were found in the journal. Segragation of duties is not always followed as one employee can prepare and authorize the same journal entry. Delegation of authority is also not always followed and there are anomalies within the journals, including entries posted outside of normal hours. Thus, if SuperStore can improve their financial controls, the private equity firm should invest.
 * The GitHub repo and Jupyter Notebook files are being finalized. The following figure showcases the sales forecast.
 
-![](images/SalesForecast.png)
+![](images/Profit_prediction.png)
